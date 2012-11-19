@@ -1,4 +1,4 @@
 CalculadoraClient
 =================
 
-Client para a WS_Calculadora
+Client web service WSDL (comum)  para a WS_Calculadora
